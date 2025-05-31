@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356863653231",
+    "project_id": "flutter101-covid-fo",
+    "storage_bucket": "flutter101-covid-fo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356863653231:android:1fb7d977a1d780a3a1649a",
+        "android_client_info": {
+          "package_name": "com.example.covid_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5VHkp3Meptn7dIgoGWeaDXII699t9gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
